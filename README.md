@@ -107,10 +107,6 @@ npm run dev
 2. AI fetches the **most relevant textbook-based explanation**.
 3. Get a **detailed, structured response** with **scientific accuracy**.
 
-### 🔹 **Predict Reagents**
-1. Enter **starting material and desired product**.
-2. Get **reagents list** + **reaction explanation**.
-
 ### 🔹 **Flashcards**
 1. **Save** important chemistry flashcards.
 2. **Retrieve** saved flashcards based on your **user authentication**.
