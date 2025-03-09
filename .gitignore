@@ -41,12 +41,7 @@ data/
 *.json
 
 # Ignore Node.js dependencies
-node_modules/
-npm-debug.log
-yarn-error.log
-pnpm-lock.yaml
-yarn.lock
-package-lock.json
+
 
 # Ignore build artifacts
 dist/
@@ -58,17 +53,14 @@ out/
 .supabase/
 
 # Ignore frontend static assets
-.next/
-.vercel/
-.netlify/
+
 
 # Ignore test coverage files
 coverage/
 *.lcov
 
 # Ignore Docker-related files
-docker-compose.override.yml
-.dockerignore
+
 
 # Ignore JetBrains IDE settings (optional)
 .idea/
