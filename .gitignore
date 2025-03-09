@@ -1,0 +1,79 @@
+# Ignore Python virtual environment
+chemenv/
+venv/
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+migrations/
+
+# Ignore environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Ignore logs and database files
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore FastAPI cache and temporary files
+__pycache__/
+*.pid
+*.swp
+
+# Ignore RDKit and chemistry-related cache/data
+data/
+*.sdf
+*.mol
+*.csv
+*.json
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Ignore build artifacts
+dist/
+build/
+out/
+.cache/
+
+# Ignore Supabase secrets
+.supabase/
+
+# Ignore frontend static assets
+.next/
+.vercel/
+.netlify/
+
+# Ignore test coverage files
+coverage/
+*.lcov
+
+# Ignore Docker-related files
+docker-compose.override.yml
+.dockerignore
+
+# Ignore JetBrains IDE settings (optional)
+.idea/
+
+# Ignore any temporary backup files
+*.bak
+*.tmp
+Thumbs.db
