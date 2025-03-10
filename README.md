@@ -1,6 +1,9 @@
 # 🔬 **Chemistry AI - Intelligent Chemistry Assistant**  
 
-🚀 **An AI-powered web application for chemistry students and researchers**.  
+https://github.com/user-attachments/assets/3c68124a-d9eb-44ed-8913-6fa6a187ea60
+
+🚀 **An AI-powered web application for chemistry students and researchers**.
+
 Predict chemical reactions, ask complex chemistry questions, and visualize reactions – all in one place!  
 
 🧠 **Powered by Retrieval-Augmented Generation (RAG) using Atkins' Physical Chemistry textbook** to provide **accurate, textbook-backed explanations**.  
